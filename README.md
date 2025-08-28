@@ -1,6 +1,6 @@
 
 
-### Technical Skill Matrix
+### Technical Skills
 
 | Category | Technologies |
 |---|---|

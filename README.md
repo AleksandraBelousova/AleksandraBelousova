@@ -1,4 +1,4 @@
-# Aleksandra Belousova | Data & Bioinformatics Engineer
+
 
 ### Technical Skill Matrix
 

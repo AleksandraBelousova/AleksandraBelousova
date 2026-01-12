@@ -4,7 +4,7 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, C++, Java, R, SQL |
+| **Languages** | Python, C++, Java , SQL |
 | **Databases & Search** | ClickHouse, Elasticsearch, PostgreSQL, SQLite |
 | **Infrastructure & MLOps**| Docker, Docker Compose, Prefect, FastAPI, AWS (S3), HashiCorp Vault |
 | **HPC & Specialized Libraries** | OpenMP, htslib, Pandas, NumPy, Scikit-learn, Dask, SciPy, Biopython |

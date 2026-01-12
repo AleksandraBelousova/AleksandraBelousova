@@ -16,6 +16,6 @@
 | Project | System Architecture | Key Result / Metric | Tech Stack |
 |---|---|---|---|
 |  **[GenoStream Analytics](https://github.com/AleksandraBelousova/genostream-analytics-platform)** | OLAP system for large-scale (174M+ records) scRNA-seq analysis. | **Query time reduction from hours to <2s** for complex aggregations. | `ClickHouse`, `Python`, `Docker`, `Pandas`, `SciPy` |
-|  **[ChromoSeek Engine](https://github.com/AleksandraBelousova/chromoseek-engine)** | Service-oriented search engine for genomic interval analysis, utilizing BKD-tree indexing. | **<200ms latency** on complex spatial (`integer_range`) queries. | `Elasticsearch`, `FastAPI`, `Prefect`, `Docker` |
+|  **[ Queryome](https://github.com/AleksandraBelousova/chromoseek-engine)** | Service-oriented search engine for genomic interval analysis, utilizing BKD-tree indexing. | **<200ms latency** on complex spatial (`integer_range`) queries. | `Elasticsearch`, `FastAPI`, `Prefect`, `Docker` |
 |  **[BAMalyzer Toolkit](https://github.com/AleksandraBelousova/BAMalyzer)** | Multi-threaded QC utility for genomic alignment analysis with low-level I/O. | High-throughput, parallelized BAM file processing, addressing Python performance bottlenecks. | `C++`, `OpenMP`, `htslib`, `CMake` |
 |  **[BioAssure Validator](https://github.com/AleksandraBelousova/BioAssure)** | CLI for automated, multi-layer data integrity validation of genomic data packages. | Ensures structural, syntactic, and biological consistency prior to data ingestion. | `Java`, `Picocli`, `Jackson`, `Maven` |

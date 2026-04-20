@@ -11,7 +11,7 @@
 
 ---
 
-### Key Projects
+### Projects
 
 | Project | System Architecture | Key Result / Metric | Tech Stack |
 |---|---|---|---|
